@@ -1,0 +1,15 @@
+D:\Studies\C# Seminar\Seminar6 dz\task43\obj\Debug\net6.0\task43.csproj.AssemblyReference.cache
+D:\Studies\C# Seminar\Seminar6 dz\task43\obj\Debug\net6.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\C# Seminar\Seminar6 dz\task43\obj\Debug\net6.0\task43.AssemblyInfoInputs.cache
+D:\Studies\C# Seminar\Seminar6 dz\task43\obj\Debug\net6.0\task43.AssemblyInfo.cs
+D:\Studies\C# Seminar\Seminar6 dz\task43\obj\Debug\net6.0\task43.csproj.CoreCompileInputs.cache
+D:\Studies\C# Seminar\Seminar6 dz\task43\bin\Debug\net6.0\task43.exe
+D:\Studies\C# Seminar\Seminar6 dz\task43\bin\Debug\net6.0\task43.deps.json
+D:\Studies\C# Seminar\Seminar6 dz\task43\bin\Debug\net6.0\task43.runtimeconfig.json
+D:\Studies\C# Seminar\Seminar6 dz\task43\bin\Debug\net6.0\task43.dll
+D:\Studies\C# Seminar\Seminar6 dz\task43\bin\Debug\net6.0\task43.pdb
+D:\Studies\C# Seminar\Seminar6 dz\task43\obj\Debug\net6.0\task43.dll
+D:\Studies\C# Seminar\Seminar6 dz\task43\obj\Debug\net6.0\refint\task43.dll
+D:\Studies\C# Seminar\Seminar6 dz\task43\obj\Debug\net6.0\task43.pdb
+D:\Studies\C# Seminar\Seminar6 dz\task43\obj\Debug\net6.0\task43.genruntimeconfig.cache
+D:\Studies\C# Seminar\Seminar6 dz\task43\obj\Debug\net6.0\ref\task43.dll
